@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29695647/README.md)
 # 🏦 Banking Management System
 
 An advanced, secure, and interactive Banking Management System built from scratch using **Python**. The application leverages Core **Object-Oriented Programming (OOP)** principles to handle robust backend financial logic and utilizes a local CSV file as a lightweight data storage system. The entire application is wrapped in a modern, user-friendly **Streamlit** web interface.
